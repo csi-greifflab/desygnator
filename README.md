@@ -7,6 +7,6 @@ __Individualized VDJ recombination predisposes the available Ig sequence space._
 
 The "notebooks" directory contains the code (in the form of Jupyter notebooks) for the analysis described in the paper. 
 To run it, you need to download the following [zip archive](https://doi.org/10.11582/2021.00089), unpack it and move the "models" subdirectory it into the root directory of the cloned repository. 
-The unpacked folders will contain the [IGoR](https://github.com/qmarcou/IGoR) model parameter files corersponding to the fitted models analyze din the paper. See, for example, `notebooks/greiff_cell_reports_pre.ipynb` for an example of parsing such files in Python along with the fasta files these model parameters were inferred from.
+The unpacked folders will contain the [IGoR](https://github.com/qmarcou/IGoR) model parameter files corersponding to the fitted models analyzed in the paper, along with the fasta files these model parameters were inferred from. See, for example, `notebooks/greiff_cell_reports_pre.ipynb` for an example of parsing such files in Python.
 
 
